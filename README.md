@@ -6,6 +6,9 @@ Boom Kart is a fully interactive 3D multiplayer racing game that runs directly i
 
 This project was developed as part of the Major Project for B.Tech CSE (KIIT University, 2025–2026).
 
+![WhatsApp Image 2025-11-20 at 16 50 08_4e611ced](https://github.com/user-attachments/assets/9c36f807-33df-41f4-bcbc-c195422c3ee4)
+
+
 ## Features
 ### Core Gameplay
 
