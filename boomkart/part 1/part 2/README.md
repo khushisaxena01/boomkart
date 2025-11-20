@@ -6,6 +6,9 @@ Boom Kart is a fully interactive 3D multiplayer racing game that runs directly i
 
 This project was developed as part of the Major Project for B.Tech CSE (KIIT University, 2025–2026).
 
+![WhatsApp Image 2025-11-20 at 16 50 08_4e611ced](https://github.com/user-attachments/assets/9c36f807-33df-41f4-bcbc-c195422c3ee4)
+
+
 ## Features
 ### Core Gameplay
 
@@ -23,6 +26,11 @@ This project was developed as part of the Major Project for B.Tech CSE (KIIT Uni
 - Low-latency networking using PeerJS
 - No server required — direct peer-to-peer gameplay
 
+![WhatsApp Image 2025-11-20 at 16 51 25_4b1c7ccd](https://github.com/user-attachments/assets/52f57b8a-3130-4328-a2d8-1217b758a907)
+
+![WhatsApp Image 2025-11-20 at 16 52 05_5e7a1ac3](https://github.com/user-attachments/assets/491e9322-bb76-4fbd-a9ad-0ee030ce75be)
+
+
 ### Visual & Audio Effects
 
 - Dynamic particle effects (dust trails, sparks, power-up bursts, weather)
@@ -36,6 +44,9 @@ This project was developed as part of the Major Project for B.Tech CSE (KIIT Uni
 - Local leaderboard with best lap & total time tracking
 - Track-wise high scores
 - Persistent localStorage-based data
+
+  ![WhatsApp Image 2025-11-20 at 16 50 32_917af83b](https://github.com/user-attachments/assets/77597416-689f-41f0-b7e3-8628a29eebd4)
+
 
 ## Technology Stack
 
